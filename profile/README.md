@@ -1,4 +1,6 @@
-# SINGA (Signa Lingua): _Translating Silence, Transcending Barriers_
+# SINGA: _Translating Silence, Transcending Barriers_
+
+![](mockup.jpg)
 
 SINGA is a service that bridges communication between ordinary people and people with hearing impairments
 
@@ -108,7 +110,7 @@ We provide a mobile application that translates sign language into text and vice
       <td rowspan="2">Clients</td>
       <td>
         <a href="https://github.com/Signa-Lingua/singa-app">
-          Singa App
+          SINGA App
         </a>
       </td>
       <td>
@@ -120,7 +122,7 @@ We provide a mobile application that translates sign language into text and vice
     <tr>
       <td>
         <a href="https://github.com/Signa-Lingua/singa-article">
-          Singa Article
+          SINGA Article
         </a>
       </td>
       <td>
@@ -133,7 +135,7 @@ We provide a mobile application that translates sign language into text and vice
     <tr>
       <td rowspan="2">APIs</td>
       <td>
-        <a href="https://github.com/Signa-Lingua/singa-api">Singa API</a>
+        <a href="https://github.com/Signa-Lingua/singa-api">SINGA API</a>
       </td>
       <td>
         The core API facilitating all client interactions and comprehensive article management
@@ -145,7 +147,7 @@ We provide a mobile application that translates sign language into text and vice
     <tr>
       <td>
         <a href="https://github.com/Signa-Lingua/singa-predict-api">
-          Singa Predict API
+          SINGA Predict API
         </a>
       </td>
       <td>
@@ -159,7 +161,7 @@ We provide a mobile application that translates sign language into text and vice
       <td>Machine Learning</td>
       <td>
         <a href="https://github.com/Signa-Lingua/singa-ml">
-          Singa ML
+          SINGA ML
         </a>
       </td>
       <td>
