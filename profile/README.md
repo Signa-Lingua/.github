@@ -1,6 +1,6 @@
 # SINGA: _Translating Silence, Transcending Barriers_
 
-![](mockup.jpg)
+![](banner.jpg)
 
 SINGA is a service that bridges communication between ordinary people and people with hearing impairments
 
